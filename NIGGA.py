@@ -1,0 +1,4 @@
+ValueError
+BaseException
+TypeError
+SyntaxError
