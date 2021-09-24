@@ -1,1 +1,2 @@
 # MAMORY
+Orhan pisduk
